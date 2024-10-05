@@ -1,5 +1,5 @@
 # Multifunctional-Scara-Robot
-This project is my graduation project. The 3-axis Scara robot model has the function of classifying goods by QR code, importing goods into the warehouse and exporting goods from the warehouse. Besides, my team has developed a user interface for easy operation.
+This project is my graduation project. The 3-axis Scara robot model has the function of classifying goods by QR code, importing goods into the warehouse and exporting goods from the warehouse. Besides, my team has developed a user interface for easy operation..
 
 ### 1. Robot Image
 
